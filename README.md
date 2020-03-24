@@ -1,3 +1,3 @@
 # Coronavirus
 
-Warcraft III: The Frozen Throne fun map.
+Tasteless Warcraft III: Reforged fun map.
