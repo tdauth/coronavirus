@@ -32,6 +32,7 @@ The Coronavrius is something very serious but this is just a funmap!
 ## Credits
 
 * Toilet Paper model: Blood Raven
+* Ambulance model: skrab
 * Laptop icon: Zombie
 * Gas mask icon: The_Silent
 * Medikit icon: -JonNny
