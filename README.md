@@ -36,6 +36,10 @@ The Coronavrius is something very serious but this is just a funmap!
 ![Fight in the Village](./screenshots/WC3ScrnShot_032820_163624_001.png "Fight in the Village") | ![Hiding on the Cliffs](./screenshots/WC3ScrnShot_032820_164405_001.png "Hiding on the Cliffs")
 ![Donald Trump](./screenshots/WC3ScrnShot_032820_164424_001.png "Donald Trump")                 | ![Infected Victory](./screenshots/WC3ScrnShot_032820_165712_001.png "Infected Victory")
 
+## Videos
+
+[Let's Play on YouTube](https://www.youtube.com/watch?v=LccjxIgvLkM&list=PLhWYsSZhXgXIMGddIEeYCXv29MC6cShHl&index=1)
+
 ## Credits
 
 * Toilet Paper model: Blood Raven
