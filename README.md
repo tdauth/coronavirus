@@ -44,9 +44,12 @@ The Coronavrius is something very serious but this is just a funmap!
 
 * Toilet Paper model: Blood Raven
 * Ambulance model: skrab
+* Nuclear explosion model: WILL THE ALMIGHTY
+* Jet Fighter model: magtheridon96
 * Laptop icon: Zombie
 * Gas mask icon: The_Silent
 * Medikit icon: -JonNny
+* Radio icon: graystuff111
 * Der Tod, das muss ein Wiener sein: Georg Kreisler
 * "1812" Overture: Tchaikovsky
 * Requiem: Mozart
