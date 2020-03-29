@@ -46,10 +46,13 @@ The Coronavrius is something very serious but this is just a funmap!
 * Ambulance model: skrab
 * Nuclear explosion model: WILL THE ALMIGHTY
 * Jet Fighter model: magtheridon96
+* Bunker model: killst4r
 * Laptop icon: Zombie
 * Gas mask icon: The_Silent
 * Medikit icon: -JonNny
 * Radio icon: graystuff111
+* Bunker icon: General Frank
 * Der Tod, das muss ein Wiener sein: Georg Kreisler
 * "1812" Overture: Tchaikovsky
 * Requiem: Mozart
+* K.I.Z: Hurra die Welt geht unter [feat. Henning May]
