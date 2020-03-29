@@ -33,8 +33,9 @@ The Coronavrius is something very serious but this is just a funmap!
 
 |               |               |
 | ------------- | ------------- |
-![Fight in the Village](./screenshots/WC3ScrnShot_032820_163624_001.png "Fight in the Village") | ![Hiding on the Cliffs](./screenshots/WC3ScrnShot_032820_164405_001.png "Hiding on the Cliffs")
-![Donald Trump](./screenshots/WC3ScrnShot_032920_130053_001.png "Donald Trump")                 | ![Infected Victory](./screenshots/WC3ScrnShot_032820_165712_001.png "Infected Victory")
+| ![Fight in the Village](./screenshots/WC3ScrnShot_032820_163624_001.png "Fight in the Village")       | ![Hiding on the Cliffs](./screenshots/WC3ScrnShot_032820_164405_001.png "Hiding on the Cliffs") |
+| ![Donald Trump](./screenshots/WC3ScrnShot_032920_222043_001.png "Nuclear Air Strike")                 | ![Infected Victory](./screenshots/WC3ScrnShot_032820_165712_001.png "Infected Victory") |
+| [Donald Trump](./screenshots/WC3ScrnShot_032920_130053_001.png "Donald Trump") |
 
 ## Videos
 
@@ -45,7 +46,7 @@ The Coronavrius is something very serious but this is just a funmap!
 * Toilet Paper model: Blood Raven
 * Ambulance model: skrab
 * Nuclear explosion model: WILL THE ALMIGHTY
-* Jet Fighter model: magtheridon96
+* Jet Fighter model: Fingolfin
 * Bunker model: killst4r
 * Laptop icon: Zombie
 * Gas mask icon: The_Silent
