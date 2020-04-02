@@ -48,6 +48,7 @@ The Coronavrius is something very serious but this is just a funmap!
 * Nuclear explosion model: WILL THE ALMIGHTY
 * Jet Fighter model: Fingolfin
 * Bunker model: killst4r
+* Tank models: General Frank
 * Laptop icon: Zombie
 * Gas mask icon: The_Silent
 * Medikit icon: -JonNny
@@ -57,3 +58,4 @@ The Coronavrius is something very serious but this is just a funmap!
 * "1812" Overture: Tchaikovsky
 * Requiem: Mozart
 * K.I.Z: Hurra die Welt geht unter [feat. Henning May]
+* Buffalo Springfield: For What It's Worth
