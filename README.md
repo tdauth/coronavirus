@@ -49,6 +49,7 @@ The Coronavrius is something very serious but this is just a funmap!
 * Jet Fighter model: Fingolfin
 * Bunker model: killst4r
 * Tank models: General Frank
+* Point target model: nhocklanhox6
 * Laptop icon: Zombie
 * Gas mask icon: The_Silent
 * Medikit icon: -JonNny
