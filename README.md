@@ -50,11 +50,13 @@ The Coronavrius is something very serious but this is just a funmap!
 * Bunker model: killst4r
 * Tank models: General Frank
 * Point target model: nhocklanhox6
+* Helicopter model: Illidan(Evil)X
 * Laptop icon: Zombie
 * Gas mask icon: The_Silent
 * Medikit icon: -JonNny
 * Radio icon: graystuff111
 * Bunker icon: General Frank
+* Helicopter icon: Illidan(Evil)X
 * Der Tod, das muss ein Wiener sein: Georg Kreisler
 * "1812" Overture: Tchaikovsky
 * Requiem: Mozart
