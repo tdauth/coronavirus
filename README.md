@@ -51,6 +51,8 @@ The Coronavrius is something very serious but this is just a funmap!
 * Tank models: General Frank
 * Point target model: nhocklanhox6
 * Helicopter model: Illidan(Evil)X
+* Parachute model: Fingolfin
+* B-17 Bomber model: Illidan(Evil)X
 * Laptop icon: Zombie
 * Gas mask icon: The_Silent
 * Medikit icon: -JonNny
