@@ -10,7 +10,7 @@ The Coronavrius is something very serious but this is just a funmap!
 
 ## Play the Map
 
-* [Download HiveWorkshop](https://www.hiveworkshop.com/threads/coronavirus.323525/) (currently blocked because this map is too offensive apparently)
+* [Download HiveWorkshop](https://www.hiveworkshop.com/threads/coronavirus.323525/) (currently blocked because this map is too offensive)
 * [Discord Server](https://discord.gg/4NFMEB)
 
 ## Features
