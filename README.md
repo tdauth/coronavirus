@@ -1,16 +1,9 @@
-# Coronavirus
+# Spread the Plague
 
-Tasteless Warcraft III: Reforged fun map.
-The Coronavirus spreads across the whole world. We don't know who is infected!
-Try to avoid  the infection but if you do get infected, try to infect others because you are a horrible person.
-
-I made this map being bored in homeoffice and frustrated from the bugs of Warcraft III: Reforged.
-Please do not be offended by its content.
-The Coronavrius is something very serious but this is just a funmap!
+The plague spreads across the whole world. We don't know who is infected! Try to avoid  the infection but if you do get infected, try to infect others because you are a horrible person.
 
 ## Play the Map
 
-* [Download HiveWorkshop](https://www.hiveworkshop.com/threads/coronavirus.323525/) (currently blocked because this map is too offensive)
 * [Discord Server](https://discord.gg/4NFMEB)
 
 ## Features
