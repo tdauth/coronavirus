@@ -5,6 +5,7 @@ The plague spreads across the whole world. We don't know who is infected! Try to
 ## Play the Map
 
 * [Discord Server](https://discord.gg/4NFMEB)
+* [Download on HiveWorkshop](https://www.hiveworkshop.com/threads/spread-the-plague.323525)
 
 ## Features
 
