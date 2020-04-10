@@ -54,6 +54,7 @@ The Coronavrius is something very serious but this is just a funmap!
 * Parachute model: Fingolfin
 * B-17 Bomber model: Illidan(Evil)X
 * Santa model: Hayate, HerrDave
+* SS officer model: HerrDave
 * Laptop icon: Zombie
 * Gas mask icon: The_Silent
 * Medikit icon: -JonNny
