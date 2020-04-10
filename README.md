@@ -61,6 +61,7 @@ The Coronavrius is something very serious but this is just a funmap!
 * Bunker icon: General Frank
 * Helicopter icon: Illidan(Evil)X
 * Gift icon: JollyD
+* RPG icon: Zombie
 * Der Tod, das muss ein Wiener sein: Georg Kreisler
 * "1812" Overture: Tchaikovsky
 * Requiem: Mozart
