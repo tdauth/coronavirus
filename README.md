@@ -55,6 +55,7 @@ The Coronavrius is something very serious but this is just a funmap!
 * B-17 Bomber model: Illidan(Evil)X
 * Santa model: Hayate, HerrDave
 * SS officer model: HerrDave
+* Snowman: Thrikodius
 * Laptop icon: Zombie
 * Gas mask icon: The_Silent
 * Medikit icon: -JonNny
@@ -63,6 +64,7 @@ The Coronavrius is something very serious but this is just a funmap!
 * Helicopter icon: Illidan(Evil)X
 * Gift icon: JollyD
 * RPG icon: Zombie
+* Snowman icon: Thrikodius
 * Der Tod, das muss ein Wiener sein: Georg Kreisler
 * "1812" Overture: Tchaikovsky
 * Requiem: Mozart
