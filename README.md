@@ -16,12 +16,11 @@ The Coronavrius is something very serious but this is just a funmap!
 ## Features
 
 * Healthy vs infected players hunting game mode.
+* 4 different levels.
 * Custom hero abilities for both sides.
 * Toilet paper as currency.
-* Random unit spawns.
-* Donald Trump.
-* Cuban doctors.
-* Graveyard with undead spawns.
+* Random unit and item spawns.
+* Several Easter eggs in the levels.
 * Player houses which sell items and can be used as hideout.
 * Local Market for buying items.
 * Celebration videos.
@@ -55,7 +54,8 @@ The Coronavrius is something very serious but this is just a funmap!
 * B-17 Bomber model: Illidan(Evil)X
 * Santa model: Hayate, HerrDave
 * SS officer model: HerrDave
-* Snowman: Thrikodius
+* Snowman model: Thrikodius
+* Lawyer model: Absolute
 * Laptop icon: Zombie
 * Gas mask icon: The_Silent
 * Medikit icon: -JonNny
