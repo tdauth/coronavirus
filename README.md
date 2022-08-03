@@ -11,7 +11,7 @@ The Coronavrius is something very serious but this is just a funmap!
 ## Play the Map
 
 * [Discord Server](https://discord.gg/gwSyQBg)
-* [Download the latest version of the map](./coronavirus.w3x)
+* [Download the latest version of the map](./coronavirus1.0.w3x)
 
 ## Features
 
